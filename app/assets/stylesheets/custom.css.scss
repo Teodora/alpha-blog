@@ -1,4 +1,4 @@
-$navbar-default-bg: white;
+$navbar-default-bg: black;
 
 @import "bootstrap-sprockets";
 @import "bootstrap";
@@ -6,7 +6,7 @@ $navbar-default-bg: white;
 #logo {
 	float: left;
 	fond-size: 1.7em;
-	color: #000000;
+	color: #fff;
 	letter-spacing: -1px;
 	font-weight: bold;
 }
@@ -16,7 +16,7 @@ $navbar-default-bg: white;
 }
 
 .jumbotron {
-	#background-image: asset-url('IMG_4570.PNG');
+	#background-image: asset-url('background.png');
 	background-size: cover;
 	height: 550px;
 }
