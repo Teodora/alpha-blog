@@ -27,7 +27,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
  gem 'bcrypt', '~> 3.1.7'
 
  gem 'will_paginate', '~> 3.1.3'
- gem 'will_paginate-bootstrap', '~> 1.0'
+ #gem 'will_paginate-bootstrap', '~> 1.0'
+ gem 'bootstrap-will_paginate', '0.0.10'
 
 # Use Unicorn as the app server
 # gem 'unicorn'
